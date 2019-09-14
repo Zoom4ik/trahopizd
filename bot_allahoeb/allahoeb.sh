@@ -1,0 +1,1 @@
+python3 ls.py & python3 chat.py & python3 title.py & python3 photo.py & python3 unpin.py  & python3 join.py
